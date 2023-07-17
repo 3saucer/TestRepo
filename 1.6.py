@@ -17,4 +17,3 @@ print(kiwi_is,in_english,'kiwi')
 # print(fruit + '는 영어로' + fruits[fruit])
 # fruit = '키위'
 # print(fruit + '는 영어로' + fruits[fruit])
-
